@@ -1,6 +1,6 @@
 自己抽空写的一些工具，希望能帮助到你~，个人感觉很适合应付网络安全毕设项目
 
-感谢你的访问，如果喜欢可以star我，说不定以后可以有助于我面试
+感谢你的访问，如果喜欢或对你有帮助可以star我，有问题也可以私信我，感谢你的帮助
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%B2%A1%E4%BA%8B%E5%86%99%E5%86%99%E7%9A%84%E5%B0%8F%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%B8%8C%E6%9C%9B%E5%BE%97%E5%88%B0%E4%BD%A0%E7%9A%84star)](https://git.io/typing-svg)
 
