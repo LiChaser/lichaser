@@ -1,11 +1,19 @@
-自己抽空写的一些工具，希望能帮助到你~，个人感觉很适合应付网络安全毕设项目
+## 作者留言：
 
-感谢你的访问，如果喜欢或对你有帮助可以star我，有问题也可以私信我，感谢你的帮助
+最近接触了些自动化挖掘的工具，更加确定了我要制作以自动化为核心的作品，同时我也想要让其成为一个系列，我将尽可能制作我能力范围所能构建最完善的作品。
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%B2%A1%E4%BA%8B%E5%86%99%E5%86%99%E7%9A%84%E5%B0%8F%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%B8%8C%E6%9C%9B%E5%BE%97%E5%88%B0%E4%BD%A0%E7%9A%84star)](https://git.io/typing-svg)
+### 未来的思路:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=1.SPiderX-%E5%88%A9%E7%94%A8%E6%A8%A1%E6%8B%9F%E7%82%B9%E5%87%BB%E8%BF%9B%E8%A1%8C%E5%89%8D%E7%AB%AF%E5%8A%A0%E5%AF%86%E7%BB%95%E8%BF%87%E7%88%86%E7%A0%B4)](https://git.io/typing-svg)
+1.重构自己利用模拟爬虫绕过常规需JS解密的爆破登陆工具SpideX(实际遇到反映的bug还是有一些，虽然因为其特别的绕过方式受到关注，但一个月就突破200个star我实在有点紧张，因为开始没想到有人会关注到所以采用的selenium包来实现模拟点击，其本身具有一定弊端，所以光靠缝缝补补肯定是不行的，所以后续我会用其他师傅推荐的一些软件包来尝试构建)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=2.Ai_Search-%E6%BA%90%E4%BA%8E%E6%9F%90%E5%85%AC%E4%BC%97%E5%8F%B7%E7%9A%84%E4%BA%8C%E5%BC%80%E7%89%88%E6%9C%AC%E5%AE%A1%E8%AE%A1%E5%B7%A5%E5%85%B7)](https://git.io/typing-svg)
+2.开发自动化挖掘SRC的工具(结合Ai的风潮以及相关衍生产品的成功，我相信这绝对是未来的趋势)。
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=3.Hack_box-----%E8%87%AA%E5%B7%B1%E5%86%99%E7%9A%84%E9%AA%87%E5%AE%A2%E9%A3%8E%E5%B7%A5%E5%85%B7%E7%AE%B1)](https://git.io/typing-svg)
+## 痛苦面具🎭:
+  写这些内容都需要足够的技术和耐心去实现，耐心我想作者是有的，毕竟对我来说兴趣上 **挖洞=写工具>刷抖音>网安相关内容>游戏>学习应试理论知识**，所以现在需要去提升下技术层面，
+在我的认知里，一个更大的平台相对会有更大的收益回报，然后相对应也要付出同样的代价，所以现在我不得不备战考研(为什么网络安全专业没有以考web内容为主的院校，可恶的11408)所以我的开发计划不得不推迟一年，最近一直都没有更新工具，因为考研内容太多了，只有休息的时候我才会来看看别人写的新工具或者网安的相关内容,所以所有更新都将暂告一段落，期待下次相见进入我的主页，可以是我如愿以偿的时候，屏幕前你的技术也变得更加精湛😊。
+
+最后给大家推荐一个师傅，如果你感觉无聊可以看看，虽然时间不多， 不过以后有空我就放点我觉得还不错的博客和文章到这~
+
+https://w8ay.fun/toc 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%9C%AA%E6%9D%A5%E6%88%91%E7%9A%84%E4%BD%9C%E5%93%81%E7%B3%BB%E5%88%97%E9%83%BD%E4%BC%9A%E4%BB%A5Lich%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83)](https://git.io/typing-svg)
