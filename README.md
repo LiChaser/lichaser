@@ -18,5 +18,8 @@ https://w8ay.fun/toc 最近很火的src用Xss工具挖了几十万的开发者 (
 https://dog.xmu.edu.cn/ （看毕设论文选题检索到的，读作者跨越二十年期间写的文章还挺有意思的)
 
 碰巧两个人各自的就业方向刚好是我的终极目标，努力努力再努力!!!!!!
+### 感觉有干货的个人博客:
+
+https://blog.thekingofduck.com/ 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%9C%AA%E6%9D%A5%E6%88%91%E7%9A%84%E4%BD%9C%E5%93%81%E7%B3%BB%E5%88%97%E9%83%BD%E4%BC%9A%E4%BB%A5Lich%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83)](https://git.io/typing-svg)
