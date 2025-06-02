@@ -24,4 +24,8 @@ https://blog.thekingofduck.com/
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%9C%AA%E6%9D%A5%E6%88%91%E7%9A%84%E4%BD%9C%E5%93%81%E7%B3%BB%E5%88%97%E9%83%BD%E4%BC%9A%E4%BB%A5Lich%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83)](https://git.io/typing-svg)
 
-自己端午整理了下web的笔记转到语雀(这知识库强推)，无聊的人可以看看~ 和大佬们的没法比
+自己端午整理了下web的笔记转到语雀(这知识库强推)
+
+https://www.yuque.com/licharser/pd0k66/fnt2g4cr7vwuslm6#IOTP2
+
+路过的人可以看看~ 和大佬们的没法比
